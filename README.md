@@ -21,4 +21,5 @@ with customizable options.
    javac PasswordGenerator.java
 
 2. Run:
+   bash
    java PasswordGenerator
